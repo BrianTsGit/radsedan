@@ -1,0 +1,27 @@
+{
+  "name": "radsedan",
+  "description": "The official site of Rad Sedan",
+  "main": "index.js",
+  "authors": [
+    "Brian Tan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/BrianTsGit/radsedan",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.8",
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3",
+    "angular-ui-router": "^1.0.12",
+    "bootstrap": "^3.3.7",
+    "angular-sanitize": "^1.6.8",
+    "angular-animate": "^1.6.8",
+    "angular-bootstrap": "^2.5.0"
+  }
+}
